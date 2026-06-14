@@ -1,16 +1,27 @@
-## Hi there 👋
+# Cześć! Jestem Michał Mierzwa 👋
 
-<!--
-**mmierzwa2002/mmierzwa2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem studentem trzeciego roku **Akademii Nauk Stosowanych w Elblągu**.
 
-Here are some ideas to get you started:
+### 👨‍💻 O mnie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studiuję **Informatykę**.
+- 🌱 Obecnie skupiam się na poszerzaniu wiedzy z zakresu **tworzenia aplikacji webowych i projektowania baz danych**.
+- 💡 Najbardziej interesują mnie zagadnienia związane z **Full-Stack Web Development**.
+
+
+**Języki programowania i technologie webowe:**
+<br>
+
+[![Jezyki](https://skillicons.dev/icons?i=cs,css,html,java,js,nextjs,php,py)](https://skillicons.dev)
+
+
+**Bazy danych i usługi backendowe:**
+<br>
+
+[![Bazy Danych i Backend](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase)](https://skillicons.dev)
+
+
+**Narzędzia i Platformy:**
+<br>
+
+[![Narzedzia](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,vercel)](https://skillicons.dev)
