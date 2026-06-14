@@ -20,7 +20,7 @@ Jestem studentem trzeciego roku **Akademii Nauk Stosowanych w Elblągu**.
 
 **Bazy danych i usługi backendowe:**
 
-[![Bazy Danych i Backend](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase)](https://skillicons.dev)
+[![Bazy Danych i Backend](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase,supabase)](https://skillicons.dev)
 
 **Narzędzia i Platformy:**
 
